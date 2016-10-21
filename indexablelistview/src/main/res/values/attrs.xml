@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="IndexBar">
+        <attr name="backgroundColor" format="color" />
+        <attr name="textColor" format="color" />
+        <attr name="textSize" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="IndexableListView">
+        <attr name="indexBarBackground" format="color" />
+        <attr name="indexTextBackground" format="color" />
+        <attr name="indexTextColor" format="color" />
+        <attr name="indexListDivider" format="reference" />
+    </declare-styleable>
+
+</resources>
